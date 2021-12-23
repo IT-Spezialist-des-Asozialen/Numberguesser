@@ -7,7 +7,7 @@ import random
 result=[]
 j=0
 
-def Reset():#things that are only counted and are only guilty for one round; not clear if needable
+def Reset():#things that are only counted and are only guilty for one round; not clear if necessary
     blub=0#only that there ist no error for the next part
 
 def end():
